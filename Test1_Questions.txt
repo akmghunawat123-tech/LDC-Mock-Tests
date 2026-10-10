@@ -1,1 +1,5 @@
-BOLD B2 
+Heading ko Bold karna (2 Marks)
+
+Font Size 14 karna (2 Marks)
+
+Center align karna (1 Mark)
