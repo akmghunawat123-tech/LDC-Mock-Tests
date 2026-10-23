@@ -1,5 +1,5 @@
-Q1 | B2 | BOLD | True | 2
-Q1 | A4 | FONTSIZE | 14 | 1
+Q1 | A1 | BOLD | True | 2
+Q1 | A4 | FONTSIZE | 19 | 1
 Q2 | B2:B8 | HALIGN | CENTER | 3
 Q3 | C2:C8 | ITALIC | True | 2
 Q3 | C2:C8 | FONTCOLOR | Blue | 3
