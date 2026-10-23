@@ -1,22 +1,11 @@
-Q1 | A1 | BOLD | True | 2
-Q1 | A4 | FONTSIZE | 18 | 1
-Q2 | B2:B8 | HALIGN | CENTER | 3
-Q3 | C2:C8 | ITALIC | True | 2
-Q3 | C2:C8 | FONTCOLOR | Blue | 3
-Q4 | A1:G8 | BORDER | True | 3
-Q5 | D:D | COLWIDTH | 20 | 2
-Q5 | D2:D8 | HALIGN | RIGHT | 3
-Q6 | D9 | FORMULA | SUM | 3
-Q6 | D9 | BOLD | True | 2
-Q7 | D10 | FORMULA | AVERAGE | 3
-Q7 | D10 | BACKCOLOR | LightGray | 2
-Q8 | D11 | FORMULA | MAX | 3
-Q8 | D11 | FONTSIZE | 12 | 1
-Q9 | D12 | FORMULA | MIN | 3
-Q9 | D12 | HALIGN | CENTER | 1
-Q10 | E2:E8 | FORMULA | SUM |2
-Q11 | B2:B8 | FONTNAME | Arial | 2
-Q12 | 1:1 | ROWHEIGHT | 28 | 2
-Q13 | A1:G1 | UNDERLINE | True | 2
-Q14 | F9 | FORMULA | SUM | 3 
-Q15 | G9 | FORMULA | SUM | 2
+Q1 | A1:G1 | 3
+Q2 | B2:B8 | 3
+Q3 | C2:C8 | 5
+Q4 | A1:G8 | 3
+Q5 | D2:D8 | 5
+Q6 | D9 | 5
+Q7 | D10 | 5
+Q8 | D11 | 4
+Q9 | D12 | 4
+Q10 | E2:E8 | 2
+Q11 | B2:B8 | 2
