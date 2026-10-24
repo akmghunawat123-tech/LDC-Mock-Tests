@@ -1,0 +1,19 @@
+Q1. Table ke header row (Range A1:H1) ko Bold karein, uska Font Color 'White' aur Background/Fill Color 'Navy Blue' set karein. (Marks: 2.5)
+
+Q2. 'Candidate Name' column (Range B2:B8) par Italic style apply karein aur text को Right-aligned karein. (Marks: 2.5)
+
+Q3. 'Basic Salary' column (Range C2:C8) par custom currency number format (₹#,##0.00) apply karein. (Marks: 2.5)
+
+Q4. 'DA' column (Range D2:D8) mein formula lagakar Basic Salary ka 12.5% nikalen. (Marks: 2.5)
+
+Q5. 'HRA' column (Range E2:E8) mein formula lagakar Basic Salary ka 7.5% nikalen. (Marks: 2.5)
+
+Q6. 'Gross Pay' column (Range F2:F8) mein SUM formula ka use karke Basic, DA aur HRA ka total nikalen (=SUM(C2:E2)). (Marks: 2.5)
+
+Q7. 'EPF' column (Range G2:G8) mein formula lagakar Basic Salary ka 4% deduction nikalen. (Marks: 2.5)
+
+Q8. 'Net Payable' column (Range H2:H8) mein formula lagakar Gross Pay mein se EPF ko ghatayen (=F2-G2). (Marks: 2.5)
+
+Q9. Poori table (Range A1:H8) ko select karke us par 'All Borders' apply karein. (Marks: 2.5)
+
+Q10. Cell A10 mein "District Grand Total" type karke Bold karein, tatha Cell C10 aur Cell H10 mein SUM formula ka use karke क्रमशः Basic Salary aur Net Payable ka grand total nikalen. (Marks: 2.5)
