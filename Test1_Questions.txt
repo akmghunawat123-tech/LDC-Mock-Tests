@@ -10,7 +10,7 @@ Q5. 'State Subsidy' column (Range F2:F8) mein formula lagakar Total Requirement 
 
 Q6. 'Net Allocation' column (Range G2:G8) mein formula lagakar Total Requirement mein se State Subsidy ko ghatayen. (Marks: 5)
 
-Q7. Poori table (Range A1:G8) ko select karke us par 'All Borders' apply karein. (Marks: 5)
+Q7. Poori table (Range A1:G8) ko select karke us par 'BLUE COLOR' apply karein. (Marks: 5)
 
 Q8. Cell A10 mein "Total Status" type karein aur text ko Bold karein. (Marks: 5)
 
