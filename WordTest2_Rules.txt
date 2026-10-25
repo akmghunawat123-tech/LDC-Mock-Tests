@@ -1,0 +1,5 @@
+Q1 (Para 1 Align & Bold)|PARA_1|5|ALIGN, BOLD
+Q2 (Para 2 Highlight & Size)|PARA_2|5|HIGHLIGHT, SIZE
+Q3 (Find Rajasthan Italic)|FIND_Rajasthan|5|ITALIC
+Q4 (Table Row 1 Align & Bold)|TABLE_1_ROW_1|5|ALIGN, BOLD
+Q5 (Page Size A4)|PAGE|5|SIZE
