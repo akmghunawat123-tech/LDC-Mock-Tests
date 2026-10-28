@@ -1,4 +1,4 @@
-Q1. Table ke header row (Range A1:G1) ko Bold karein aur uska Background/Fill Color 'Yellow' set karein. (Marks: 5)
+﻿Q1. Table ke header row (Range A1:G1) ko Bold karein aur uska Background/Fill Color 'Yellow' set karein. (Marks: 5)
 
 Q2. 'Beneficiary Name' column (Range B2:B8) mein Center Alignment apply karein. (Marks: 5)
 
