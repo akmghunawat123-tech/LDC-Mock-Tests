@@ -1,0 +1,19 @@
+﻿Q1. Make the header row (Range A1:H1) bold, set its font color to 'White', and set the background/fill color to 'Navy Blue'. (Marks: 2.5)
+
+Q2. Apply italic formatting to the 'Candidate Name' column (Range B2:B8) and right-align the text. (Marks: 2.5)
+
+Q3. Apply a custom currency number format (₹#,##0.00) to the 'Basic Salary' column (Range C2:C8). (Marks: 2.5)
+
+Q4. Apply a formula in the 'DA' column (Range D2:D8) to calculate 12.5% of the Basic Salary. (Marks: 2.5)
+
+Q5. Apply a formula in the 'HRA' column (Range E2:E8) to calculate 7.5% of the Basic Salary. (Marks: 2.5)
+
+Q6. Use the SUM formula in the 'Gross Pay' column (Range F2:F8) to calculate the total of Basic, DA, and HRA (=SUM(C2:E2)). (Marks: 2.5)
+
+Q7. Apply a formula in the 'EPF' column (Range G2:G8) to calculate a 4% deduction of the Basic Salary. (Marks: 2.5)
+
+Q8. Apply a formula in the 'Net Payable' column (Range H2:H8) to subtract the EPF from the Gross Pay (=F2-G2). (Marks: 2.5)
+
+Q9. Select the entire table (Range A1:H8) and apply 'All Borders'. (Marks: 2.5)
+
+Q10. Type "District Grand Total" in Cell A10 and make it bold. Then, use the SUM formula in Cell C10 and Cell H10 to calculate the grand totals of the Basic Salary and Net Payable, respectively. (Marks: 2.5)
