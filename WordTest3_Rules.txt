@@ -1,0 +1,22 @@
+﻿#TIME|10
+Q1 Heading bold, underline, 18 pt, Arial|PARA_1|2|BOLD,UNDERLINE,FONTSIZE,FONTNAME
+Q2 4th para justified + first line indent 0.5 in|PARA_7|2|ALIGN,FIRSTLINE
+Q3 2nd para line spacing 1.5 + 12 pt after|PARA_3|2|LINESPACING,SPACEAFTER
+Q4 Header right aligned|HEADER_1|1|ALIGN
+Q4 Footer centred with Page X of Y fields|FOOTER_1|1|ALIGN,RFIELDCODES
+Q5 Box page border 1 pt|PAGE|1|PAGEBORDER,BORDERSTYLE
+Q5 Light gray page colour|PAGE|1|PAGECOLOR
+Q6 Alternate table rows light blue|TABLE_1|2|SHADING
+Q7 1st para italic, 16 pt, Arial|PARA_2|2|ITALIC,FONTSIZE,FONTNAME
+Q8 Every Rajasthan word yellow highlight + red font|FINDALL_jktLFkku|2|HIGHLIGHT,FONTCOLOR
+Q9 Narrow margins + Legal paper|PAGE|2|MARGIN,PAGESIZE
+Q10 Footnote on the word in the 5th paragraph|PARA_9|0.5|FOOTNOTES
+Q10 Footnote text|PAGE|0.5|FNTEXT
+Q11 Endnote added|PAGE|0.5|ENDNOTE
+Q11 Endnote format a, b, c starting from a|PAGE|0.5|ENFORMAT
+Q12 Line numbers on|PAGE|0.5|LINENUMBERS
+Q12 2nd paragraph without line numbers|PARA_3|0.25|NOLINENUM
+Q12 4th paragraph without line numbers|PARA_7|0.25|NOLINENUM
+Q13 First 3 sentences of 5th para in Left column with line|SECTION_4|2|COLUMNS,COLLINE
+Q14 Last 3 paragraphs: QUESTION 1, 2, 3 list in purple|PARA_71-73|1|LIST,LISTSTYLE,LISTFONT
+Q15 Only page 2 landscape|SECTION_5|1|ORIENT
