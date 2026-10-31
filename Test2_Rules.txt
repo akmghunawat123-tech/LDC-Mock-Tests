@@ -1,0 +1,17 @@
+﻿#TIME|10
+Q1 (Find out the Savings of cells L10:L13, fill them with pink colour and bold these cells.)| L10:L13 | 2 | FORMULA, FILL, BOLD
+Q2 (Convert the DoB in long date format and fill them with light blue colour.)| I5:I19 | 2 | FORMAT, FILL
+Q3 (Convert the data of S.No. column in 'Input' cell style.)| D5:D19 | 1 | STYLE
+Q4 (Convert the data of Expenditure, Income and Savings column in Indian Rupee Currency upto 1 decimal place )| J5:L19 | 2 | FORMAT
+Q4 (apply gradient fill-red data bar on Expenditure data.)| K5:K19 | 1 | CF
+Q5 (Add prefix 'Mr.' before data of Name column with 2 spaces and 'Shri' before Father's name with 1 space.)|E5:F19|2|FORMAT
+Q6 (Fill 12.5% gray pattern with light blue colour in cells containing 'Rajasthan' state.)|H5, H9, H11, H14, H19|2|FILL
+Q7 (Apply the following changes: Page fit to 4 pages wide by 2 pages tall, Paper size - Tabloid.)|SHEET_PAGELAYOUT|2|PAPER,FITWIDE,FITTALL
+Q8 (Only change the data of S.No. column into descending order.)|D5:D19|2|CHANGED
+Q9  (Insert date in Left, Page no. in centre and sheet name in right section of the Header.)|SHEET_HEADER|2|TEXT
+Q10 (Apply Subscript effect on the following cells: E9, F6, L12, K14 and I13.)| E9,F6,L12,K14,I13 | 2 | SUBSCRIPT
+Q11 (Add # with 3 spaces before Students and # with 2 spaces after Student in column 'Profession' with text colour red.)| G5,G6,G9,G14,G17,G19 | 2 | FORMAT, FONTCOLOR
+Q12 (In the cells E5:E19 whose name ends with 'a' apply green text colour and $ symbol with 1 space after them.)| E15,E16,E18 | 2 | FORMAT, FONTCOLOR
+Q13 (In the Footer of the document add Time in the middle, File name in right section and also Bold the footer.)| SHEET_FOOTER | 1
+Q14 (In the Expenditure column values that are not between 10000-20000 fill them with green colour.)| K5, K7, K8, K9, K13:K17, K19 | 1 | FILL
+Q15 (Freeze only column D and row 4.)| SHEET_VIEW|1|FREEZE
