@@ -1,4 +1,4 @@
-﻿#TIME|10
+﻿#TIME|15
 Q1 (Find out the Savings of cells L10:L13, fill them with pink colour and bold these cells.)| L10:L13 | 2 | FORMULA, FILL, BOLD
 Q2 (Convert the DoB in long date format and fill them with light blue colour.)| I5:I19 | 2 | FORMAT, FILL
 Q3 (Convert the data of S.No. column in 'Input' cell style.)| D5:D19 | 1 | STYLE
