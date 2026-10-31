@@ -1,0 +1,22 @@
+﻿                  RSSB LDC EFFICIENY TEST 2026
+TIME : 10 MINUTE                MAXIMUM MARKS :25
+
+Q1. Make the header row (Range A1:G1) bold, set its font color to 'White', and set the background/fill color to 'Dark Gray'. (Marks: 2.5)
+
+Q2. Apply italic formatting to the 'Project Name' column (Range B2:B7) and left-align the text. (Marks: 2.5)
+
+Q3. Apply a custom currency number format (₹#,##0.00) to the 'Allocated Budget' and 'Expenditure' columns (Range C2:D7). (Marks: 2.5)
+
+Q4. Apply a formula in the 'Variance' column (Range E2:E7) to subtract the Expenditure from the Allocated Budget (=C2-D2). (Marks: 2.5)
+
+Q5. Use an IF formula in the 'Status' column (Range F2:F7): if the Expenditure <= Allocated Budget, display "Within Budget"; otherwise, display "Over Budget" (=IF(D2<=C2,"Within Budget","Over Budget")). (Marks: 2.5)
+
+Q6. Apply a formula in the 'Completion %' column (Range G2:G7) to divide the Expenditure by the Allocated Budget (=D2/C2), and apply the Percentage number format (0.00%) to the cells. (Marks: 2.5)
+
+Q7. Set the row height of the table's Header row (Row 1) to 25, and set the row height for all data rows (Rows 2 to 7) to 20. (Marks: 2.5)
+
+Q8. Select the entire table (Range A1:G7) and apply 'All Borders'. (Marks: 2.5)
+
+Q9. Set the sheet's Page Layout orientation to Landscape and enable 'Fit to 1 page wide by 1 page tall'. (Marks: 2.5)
+
+Q10. In the sheet's Header, set the left section to "District Development Report" and the right section to "Financial Year 2026-27". (Marks: 2.5)

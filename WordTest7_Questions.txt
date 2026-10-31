@@ -1,0 +1,22 @@
+﻿HARD WORD TEST  -  10 Questions  -  25 Marks  -  Time 15 minutes
+Open HardWordTest_Data.docx and do the following. Save the file when finished.
+
+Q1 (3)  Replace every "Rajputana" with "Rajasthan" and make every "Rajasthan" bold, italic and dark red, RGB (192, 0, 0).
+
+Q2 (2)  Apply the Heading 2 style to the three headings: Fort Country, Lake District and Fair Season.
+
+Q3 (3)  In the paragraph under "Fort Country": hanging indent 0.75", spacing before 6 pt, after 6 pt, line spacing Exactly 18 pt.
+
+Q4 (3)  In the table: merge the cells of the first row, make the second row repeat as a header row, right-align the third column, and give the table a double-line outside border.
+
+Q5 (3)  In the paragraph beginning "In 2013 UNESCO...", highlight every number with Turquoise (highlight colour; RGB 0, 255, 255) and make it bold (only the numbers).
+
+Q6 (3)  Insert the footnote "UNESCO World Heritage Site since 2013." after the word "Chittorgarh" in the Fort Country paragraph. Number footnotes as i, ii, iii and start at iii.
+
+Q7 (3)  Different first page: first-page header "Heritage Series"; other pages header "AK Efficiency" right aligned; footer centred "Page X of Y" using page-number fields.
+
+Q8 (2)  Put "Fair Season" heading and its paragraph in their own section: Landscape, two columns with a line between, and make the following section Portrait with one column.
+
+Q9 (1.5) Make "Kumbhalgarh" a hyperlink to https://www.rajasthan.gov.in and add a bookmark named Forts on the "Fort Country" heading.
+
+Q10 (1.5) Page setup: top and bottom margins 1", inside 1.25", outside 0.75", gutter 0.3", Mirror margins.
