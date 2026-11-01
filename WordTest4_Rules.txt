@@ -1,0 +1,23 @@
+﻿#TIME|15
+Q1a No 'Rajputana' left in the document|FIND_Rajputana|1|ABSENT
+Q1b Every 'Rajasthan' bold, italic, dark red|FINDALL_Rajasthan|2|PRESENT,BOLD,ITALIC,FONTCOLOR
+Q2a Heading 2 on Fort Country|FIND_Fort Country|0.7|STYLE
+Q2b Heading 2 on Lake District|FIND_Lake District|0.7|STYLE
+Q2c Heading 2 on Fair Season|FIND_Fair Season|0.6|STYLE
+Q3 Forts paragraph hanging 0.75, 6 pt before/after, exactly 18 pt|PARA_4|3|LINESPACING,FIRSTLINE,SPACEBEFORE,SPACEAFTER
+Q4a Row 1 merged + double outside border|TABLE_1|1|MERGE,BORDERSTYLE
+Q4b Row 2 repeats as header|ROW_1.2|1|HEADROW
+Q4c Third column right aligned|TABLE_1|1|TALIGNMAP
+Q5 Digits highlighted turquoise and bold|PARA_5|3|HIGHLIGHTMAP,BOLDMAP
+Q6a Footnote after Chittorgarh|PARA_4|1|FOOTNOTES
+Q6b Footnote number format lower roman, start iii|PAGE|1|FNFORMAT
+Q6c Footnote text|PAGE|1|FNTEXT
+Q7a Different first page|PAGE|0.5|FIRSTPAGE
+Q7b First page header text|FIRSTHEADER_1|0.75|TEXT
+Q7c Header text right aligned|HEADER_1|0.75|TEXT,ALIGN
+Q7d Footer centred with Page X of Y fields|FOOTER_1|1|ALIGN,RFIELDCODES
+Q8 Fair Season section landscape, 2 columns with line|SECTION_2|2|ORIENT,COLUMNS,COLLINE
+Q9a Hyperlink on Kumbhalgarh|PARA_4|0.5|HYPERLINKS
+Q9b Hyperlink address|PAGE|0.5|HYPERLINKADDR
+Q9c Bookmark named Forts|PAGE|0.5|BOOKMARKNAMES
+Q10 Margins 1 in top/bottom, inside 1.25, outside 0.75, gutter 0.3, mirrored|PAGE|1.5|MARGIN,MIRROR,GUTTER
