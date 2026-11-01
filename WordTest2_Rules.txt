@@ -1,0 +1,15 @@
+﻿#TIME|10
+Q1 English heading bold, 16 pt, Arial, centred|PARA_1|3|BOLD,FONTSIZE,FONTNAME,ALIGN
+Q2 Hindi heading Mangal 16 pt bold, centred|PARA_3|2|COMPLEXFONT,ALIGN
+Q3 English para justified, first line 0.5, line spacing 1.5|PARA_2|3|ALIGN,FIRSTLINE,LINESPACING
+Q4 Hindi para justified, first line 0.5, line spacing 1.5|PARA_4|3|ALIGN,FIRSTLINE,LINESPACING
+Q5a No English 'mobile' left|FIND_mobile|0.5|ABSENT
+Q5b Every 'smartphone' bold and underlined|FINDALL_smartphone|1.5|PRESENT,BOLD,UNDERLINE
+Q6a No Hindi 'मोबाइल' left|FIND_मोबाइल|0.5|ABSENT
+Q6b Every 'स्मार्टफोन' present and bold|FINDALL_स्मार्टफोन|1.5|PRESENT,BOLD
+Q7 Table: third column right aligned, double outside border|TABLE_1|3|TALIGNMAP,BORDERSTYLE
+Q8a Header text (English + Hindi) right aligned|HEADER_1|1.5|TEXT,ALIGN
+Q8b Footer centred 'Page X of Y' with fields|FOOTER_1|1.5|ALIGN,RFIELDCODES
+Q9 A4 paper, all margins 0.5 in|PAGE|2|PAGESIZE,MARGIN
+Q10a English para 5 box border and light yellow shading|PARA_5|1|PBORDERSTYLE,PSHADING
+Q10b Hindi para 6 bulleted|PARA_6|1|LIST
