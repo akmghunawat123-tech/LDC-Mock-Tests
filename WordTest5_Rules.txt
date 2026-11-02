@@ -1,0 +1,14 @@
+﻿#TIME|10
+Q1 English title Times New Roman 18 bold, RGB(0,112,192)|PARA_1|3|FONTNAME,FONTSIZE,BOLD,FONTCOLOR
+Q2 Hindi paragraph Mangal 14 bold italic, justify, 12 pt before/after|PARA_2|3|COMPLEXFONT,ALIGN,SPACEBEFORE,SPACEAFTER
+Q3a No English 'tank' left|FIND_tank|0.5|ABSENT
+Q3b Every 'reservoir' bold + yellow highlight|FINDALL_reservoir|2.5|PRESENT,BOLD,HIGHLIGHT
+Q4a No Hindi 'तालाब' left|FIND_तालाब|0.5|ABSENT
+Q4b 'झील' underlined and RGB(192,0,0)|FINDALL_झील|1.5|PRESENT,UNDERLINE,FONTCOLOR
+Q5 English steps line numbered list|PARA_6|2|LIST
+Q6 Table row 1 merged, columns centre/right aligned|TABLE_1|3|MERGE,TALIGNMAP
+Q7 Table row 2 bold and repeated as header|ROW_1.2|2|BOLDMAP,HEADROW
+Q8a Header text centred|HEADER_1|1.5|TEXT,ALIGN
+Q8b Footer right aligned Page X of Y fields|FOOTER_1|1.5|ALIGN,RFIELDCODES
+Q9 Legal paper, all margins 0.75 in|PAGE|2|PAGESIZE,MARGIN
+Q10 Page border (box)|PAGE|2|PAGEBORDER
