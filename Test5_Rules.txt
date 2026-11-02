@@ -1,0 +1,16 @@
+﻿#TIME|15
+Q01 - Title Formatting|A1:G1|3|BOLD, FILL,FONTNAME, MERGE
+Q02 - Align and center|A2:G2|1|HALIGN, VALIGN
+Q03 - Pass/Fail Formula|E3:E12|2|FORMULA
+Q03 - Fail Conditional Formatting|E3:E12|2|CONDITIONAL
+Q04 - Active/Inactive Formula|F3:F12|1|FORMULA
+Q05 - Distance Data Bars|G3:G12|1|DATABAR
+Q06 - Count Pass|A14|1|FORMULA
+Q07 - Current Date|B14|1|FORMULA
+Q08 - Averages|D14,G14|2|FORMULA
+Q09 - Promoted Message Text|A16|1|WRAP, FILL
+Q10 - Promotion List Array|A17:A20|5|FORMULA, ARRAY, FONTCOLOR
+Q11 - Current Time | C14 |2| FORMULA, FORMAT
+Q12 - All Borders | A1:G14|1| BORDER
+Q13 - Header |SHEET_HEADER|1|
+Q14 - Footer |SHEET_FOOTER|1|
