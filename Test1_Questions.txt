@@ -1,19 +1,19 @@
-﻿Q1. Table ke header row (Range A1:G1) ko Bold karein aur uska Background/Fill Color 'Yellow' set karein. (Marks: 5)
+Q1. Make the table's header row (Range A1:G1) bold and set its Background/Fill Color to 'Yellow'. (Marks: 5)
 
-Q2. 'Beneficiary Name' column (Range B2:B8) mein Center Alignment apply karein. (Marks: 5)
+Q2. Apply Center Alignment to the 'Beneficiary Name' column (Range B2:B8). (Marks: 5)
 
-Q3. 'Principal Loan' column (Range C2:C8) ko Italic karein aur Font Color 'Blue' set karein. (Marks: 5)
+Q3. Italicize the 'Principal Loan' column (Range C2:C8) and set the Font Color to 'Blue'. (Marks: 5)
 
-Q4. 'Total Requirement' column (Range E2:E8) mein formula lagakar Principal Loan aur Projected Interest ka total (Sum) nikalen. (Marks: 5)
+Q4. In the 'Total Requirement' column (Range E2:E8), apply a formula to calculate the total (Sum) of the Principal Loan and Projected Interest. (Marks: 5)
 
-Q5. 'State Subsidy' column (Range F2:F8) mein formula lagakar Total Requirement ka 10% nikalen. (Marks: 5)
+Q5. In the 'State Subsidy' column (Range F2:F8), apply a formula to calculate 10% of the Total Requirement. (Marks: 5)
 
-Q6. 'Net Allocation' column (Range G2:G8) mein formula lagakar Total Requirement mein se State Subsidy ko ghatayen. (Marks: 5)
+Q6. In the 'Net Allocation' column (Range G2:G8), apply a formula to subtract the State Subsidy from the Total Requirement. (Marks: 5)
 
-Q7. Poori table (Range A1:G8) ko select karke us par 'BLUE COLOR' apply karein. (Marks: 5)
+Q7. Select the entire table (Range A1:G8) and apply 'BLUE COLOR' to it. (Marks: 5)
 
-Q8. Cell A10 mein "Total Status" type karein aur text ko Bold karein. (Marks: 5)
+Q8. Type "Total Status" in cell A10 and make the text bold. (Marks: 5)
 
-Q9. Cell C10 mein SUM formula ka use karke 'Principal Loan' (C2:C8) ka total sum nikalen. (Marks: 5)
+Q9. In cell C10, use the SUM formula to calculate the total sum of the 'Principal Loan' (C2:C8). (Marks: 5)
 
-Q10. Cell D10 mein AVERAGE formula ka use karke 'Projected Interest' (D2:D8) ki average nikalen. (Marks: 5)
+Q10. In cell D10, use the AVERAGE formula to calculate the average of the 'Projected Interest' (D2:D8). (Marks: 5)
