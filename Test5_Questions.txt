@@ -1,0 +1,32 @@
+﻿RSSB LDC Efficiency Test
+TIME : 10 MIN              MAX MARKS: 25
+
+1. make the text "RSSB LDC EFFICIENY TEST 2026" Merge & Center to G1, Bold, apply a Yellow (RGB : 255:255:0) background fill and change font style to "Georgia."
+
+2. In A2:G2, align to middle and center the text fill GREEN(RGB : 146:208:80) color.
+
+2. In the PASS/FAIL column (E3:E12), use an IF formula to display "Pass" if marks in column D are 40 or above, otherwise display "Fail".
+
+3. Apply Conditional Formatting to the PASS/FAIL column (E3:E12) so that any cell containing the text "Fail" is formatted with red text.
+
+4. In the Active/Inactive column (F3:F12), write an IF formula to display "Inactive" if the candidate received exactly 0 marks, and "Active" for any score greater than 0.
+
+5. Apply Solid Red Data Bars (Conditional Formatting) to the Distance column (G3:G12) to visually represent the values.
+
+6. Count Formula: In cell A14, use the to count the total number of students who achieved "Pass".
+
+7. In cell B14, insert the current date dynamically using the formula.
+
+8. In cells D14 and G14, calculate the average marks and average distance, respectively, using the AVERAGE formula.
+
+9. Message Text: In cell A16, Wrap text and fill "Yellow" color.
+
+10. In cells A17:A21, use an array formula (e.g., INDEX/MATCH combined with SMALL/IF) to automatically extract and list the names of the employees who have passed and change font color to "Green".
+
+11. In cell C14, Using formula provide current time format it to HH:MM:SS.
+
+12. Use All borders in sheet (A1:G14)
+
+13. In the left side header fill file name, in middle Current Time and Date in right.
+
+14. Footer : In the left side header fill Sheet name, in middle Page  and No. of Pages in right.
